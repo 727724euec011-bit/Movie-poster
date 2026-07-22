@@ -1,0 +1,45 @@
+body{
+    background-color:black;
+    font-family: Arial;
+    text-align: center;
+}
+
+.poster{
+    width: 300px;
+    margin: 30px auto;
+    background-color: lightgray;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.poster img{
+    width: 200px;
+    height: 250px;
+    border: 1px solid black;
+}
+
+h1{
+    color: darkred;
+}
+
+button{
+    background-color: red;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    margin-top: 10px;
+}
+
+ul{
+    text-align: left;
+    margin-left: 50px;
+}
+
+li{
+    margin: 5px 0;
+}
+
+h3{
+    color: darkblue;
+    margin-top: 15px;
+}
